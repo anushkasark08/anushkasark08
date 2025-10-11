@@ -60,12 +60,12 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
 <div align="center">
 
 <strong style="color:#FF6EC7;">Languages:</strong><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c&theme=dark" style="border:2px solid #FF6EC7; border-radius:8px; padding:4px;" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c&theme=dark" style="border:2px solid #FF6EC7; border-radius:8px; padding:4px;" />
 
 <br><br>
 
 <strong style="color:#00FFFF;">Tools & Frameworks:</strong><br>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,figma,vscode,canva,photoshop,git,github&theme=dark" style="border:2px solid #00FFFF; border-radius:8px; padding:4px;" />
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nodejs,figma,vscode,canva,photoshop,git,github&theme=dark" style="border:2px solid #00FFFF; border-radius:8px; padding:4px;" />
 
 </div>
 
