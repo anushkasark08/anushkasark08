@@ -103,6 +103,11 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
 > “Fueled by caffeine ☕ – can't code without it!”
 
 ---
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
 
 ### 📫 Connect With Me
 
