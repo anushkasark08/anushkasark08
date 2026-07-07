@@ -119,6 +119,5 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----
 
 </div>
