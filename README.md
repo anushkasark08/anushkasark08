@@ -38,22 +38,16 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
 <h3 align="center">🏆 GirlScript Summer of Code 2026</h3>
 
 <p align="center">
-  <img src="assets/gssoc-badge-role_pa.png" width="180" alt="Project Leader Badge"/>
+  <img src="assets/gssoc-badge-role_pa.png" width="180" alt="Project Admin Badge"/>
   <img src="assets/gssoc-badge-point_scorer.png" width="180" alt="Point Scorer Badge"/>
   <img src="assets/gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge"/>
 </p>
 
 <p align="center">
-<b>Project Leader</b> • <b>Point Scorer</b> • <b>Rising Star</b>
+<b>Project Admin</b> • <b>Point Scorer</b> • <b>Rising Star</b>
 </p>
 
 </div>
-
-
-<!-- GitHub Trophies -->
-<span style="color:#FF6EC7; font-weight:bold; font-size:16px;">Github Trophies</span>
-<br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=anushkasark08&theme=radical&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
 
 <br>
 
