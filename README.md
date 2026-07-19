@@ -35,6 +35,19 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
 <!-- Holopin Badges -->
 [![Holopin badges](https://holopin.me/anushkasark08?theme=dark)](https://holopin.io/@anushkasark08)
 
+<h3 align="center">🏆 GirlScript Summer of Code 2026</h3>
+
+<div align="center">
+
+<img src="assets/project-admin.png" width="180"/>
+<img src="assets/point-scorer.png" width="180"/>
+<img src="assets/rising-star.png" width="180"/>
+
+<br><br>
+
+<b>Project Admin</b> • <b>Point Scorer</b> • <b>Rising Star</b>
+
+</div>
 
 
 <!-- GitHub Trophies -->
