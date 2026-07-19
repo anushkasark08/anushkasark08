@@ -37,15 +37,15 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
 
 <h3 align="center">🏆 GirlScript Summer of Code 2026</h3>
 
-<div align="center">
+<p align="center">
+  <img src="assets/gssoc-badge-role_pa.png" width="180" alt="Project Leader Badge"/>
+  <img src="assets/gssoc-badge-point_scorer.png" width="180" alt="Point Scorer Badge"/>
+  <img src="assets/gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge"/>
+</p>
 
-<img src="assets/project-admin.png" width="180"/>
-<img src="assets/point-scorer.png" width="180"/>
-<img src="assets/rising-star.png" width="180"/>
-
-<br><br>
-
-<b>Project Admin</b> • <b>Point Scorer</b> • <b>Rising Star</b>
+<p align="center">
+<b>Project Leader</b> • <b>Point Scorer</b> • <b>Rising Star</b>
+</p>
 
 </div>
 
