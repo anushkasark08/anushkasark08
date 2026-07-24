@@ -122,11 +122,11 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
 <img src="https://img.shields.io/badge/Email-anushkasrkr08%40gmail.com-00FFFF?style=for-the-badge&logo=gmail&logoColor=FF6EC7" alt="Email" />
 </a>
 
----
+
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-----
+
 
 </div>
