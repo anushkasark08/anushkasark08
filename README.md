@@ -41,7 +41,7 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
   <img src="assets/gssoc-badge-role_pa.png" width="180" alt="Project Admin Badge"/>
   <img src="assets/gssoc-badge-point_scorer.png" width="180" alt="Point Scorer Badge"/>
   <img src="assets/gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge"/>
-  <img src="assets/gssoc-bounty-hunter.png" width="180" alt="Bounty Hunter Badge"/>
+  <img src="assets/gssoc-badge-bounty_hunter.png" width="180" alt="Bounty Hunter Badge"/>
 </p>
 
 <p align="center">
