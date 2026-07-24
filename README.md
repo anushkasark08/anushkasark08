@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&color=FF6EC7,00FFFF,39FF14&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anushka+Sarkar+👋;Frontend+Web+Developer+💻;Open+Source+Contributor+🌐;Fueled+by+Caffeine+%26+Curiosity+☕💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=700&color=FF6EC7,00FFFF,39FF14&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anushka+Sarkar+👋;Web+Developer+💻;Open+Source+Contributor+&+Project+Admin+🌐;Fueled+by+Caffeine+%26+Curiosity+☕💡" alt="Typing SVG" />
 </div>
 
 ---
@@ -41,10 +41,11 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
   <img src="assets/gssoc-badge-role_pa.png" width="180" alt="Project Admin Badge"/>
   <img src="assets/gssoc-badge-point_scorer.png" width="180" alt="Point Scorer Badge"/>
   <img src="assets/gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge"/>
+  <img src="assets/gssoc-bounty-hunter.png" width="180" alt="Bounty Hunter Badge"/>
 </p>
 
 <p align="center">
-<b>Project Admin</b> • <b>Point Scorer</b> • <b>Rising Star</b>
+<b>Project Admin</b> • <b>Point Scorer</b> • <b>Rising Star • <b>Bounty Hunter</b>
 </p>
 
 </div>
