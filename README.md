@@ -104,12 +104,8 @@ I'm a B.Tech Information Technology student passionate about **Full-Stack Develo
 Here's a snapshot of my GitHub activity, contribution streak, and the technologies I work with the most.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anushkasark08&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=39FF14" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anushkasark08&layout=compact&theme=dark&hide_border=true&title_color=FF6EC7&text_color=00FFFF&bg_color=0F0F0F" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anushkasark08&theme=dark&hide_border=true&fire=FF6EC7&currStreakNum=00FFFF&sideNums=39FF14&dates=FF6EC7" alt="GitHub Streak"/>
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=anushkasark08&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anushkasark08&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
