@@ -95,15 +95,15 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
 <div align="center">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anushkasark08&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=39FF14" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkasark08&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=39FF14" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasark08&layout=compact&theme=dark&hide_border=true&title_color=FF6EC7&text_color=00FFFF&bg_color=0F0F0F" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasark08&layout=compact&theme=dark&hide_border=true&title_color=FF6EC7&text_color=00FFFF&bg_color=0F0F0F" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkasark08&theme=dark&hide_border=true&fire=FF6EC7&currStreakNum=00FFFF&sideNums=39FF14&dates=FF6EC7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=anushkasark08&theme=dark&hide_border=true&fire=FF6EC7&currStreakNum=00FFFF&sideNums=39FF14&dates=FF6EC7" alt="GitHub Streak" />
 </p>
 
 </div>
