@@ -42,10 +42,13 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
   <img src="assets/gssoc-badge-point_scorer.png" width="180" alt="Point Scorer Badge"/>
   <img src="assets/gssoc-badge-rising_star.png" width="180" alt="Rising Star Badge"/>
   <img src="assets/gssoc-badge-bounty_hunter.png" width="180" alt="Bounty Hunter Badge"/>
+  <img src="assets/gssoc-badge-power_contributor.png" width="180" alt="Rising Star Badge"/>
+  <img src="assets/gssoc-badge-elite.png" width="180" alt="Bounty Hunter Badge"/>
+  
 </p>
 
 <p align="center">
-<b>Project Admin</b> • <b>Point Scorer</b> • <b>Rising Star • <b>Bounty Hunter</b>
+<b>Project Admin</b> • <b>Point Scorer</b> • <b>Rising Star • <b>Bounty Hunter • <b>Power Contributor• <b>Elite</b>
 </p>
 
 </div>
