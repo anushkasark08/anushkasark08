@@ -8,21 +8,25 @@
 
 ---
 
-### 🧑‍💻 About Me
+# 👋 About Me
 
-<div align="center">
-<span style="color:#FF6EC7; font-weight:bold;">Hey there!</span> I'm <span style="color:#00FFFF; font-weight:bold;">Anushka Sarkar</span>, a <b>pre-final year IT student</b> at <span style="color:#39FF14; font-weight:bold;">Haldia Institute of Technology</span>.  
-
-I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> and <span style="color:#00FFFF;">Open Source</span>, turning ideas into <span style="color:#39FF14;">interactive, sleek, and accessible digital experiences</span>.  
+I'm a B.Tech Information Technology student passionate about **Full-Stack Development, Data Analytics, Artificial Intelligence, and Open Source**. I enjoy building scalable web applications, solving Data Structures & Algorithms problems in Java, and transforming data into meaningful insights.
 
 ---
 
-🌱 **Currently learning:** <span style="color:#FF6EC7;">Node.js</span> & <span style="color:#00FFFF;">Django</span>  
-🔭 **Top Contributor in:** [GrowCraft](https://github.com/anushkasark08/GrowCraft) – <span style="color:#39FF14;">50+ contributions</span>  
-👯 **Looking to collaborate on:** Open-source projects in <span style="color:#FF6EC7;">web development</span> & <span style="color:#00FFFF;">ed-tech</span>  
-💬 **Ask me about:** <span style="color:#39FF14;">React, Frontend Development, DSA</span>  
-💡 **My mantra:** *“Code clean, build precise, and keep learning.”*
-</div>
+🌱 **Currently strengthening:** Data Structures & Algorithms, Core Computer Science subjects, and building AI- & Power BI-driven projects
+
+🔭 **Currently building:** Full-Stack and AI-powered projects
+
+💻 **Practicing:** Data Structures & Algorithms (Java) on LeetCode
+
+🤝 **Looking to collaborate on:** Open-source projects, Full-Stack Development & AI
+
+💬 **Ask me about:** Java, React, SQL, Power BI, Data Analytics, DSA
+
+⚡ **Interests:** Web Development, Artificial Intelligence, Data Analytics, Open Source, Competitive Programming
+
+💡 **My mantra:** *"Code clean, Build precise , and keep learning."*
 
 ---
 
@@ -66,49 +70,47 @@ I'm passionate about <span style="color:#FF6EC7;">Frontend Development</span> an
 
 ---
 
-### 🧰 Tech Stack
+# 🧰 Tech Stack
 
-<div align="center">
+### 💻 Languages
+`Java` • `Python` • `JavaScript` • `SQL` • `HTML` • `CSS`
 
-<strong style="color:#FF6EC7;">Languages:</strong><br>
-<img src="https://skillicons.dev/icons?i=js,python,java,c&theme=dark" style="border:2px solid #FF6EC7; border-radius:8px; padding:4px;" />
+### 🚀 Frameworks & Libraries
+`React` • `Node.js` • `Express.js`
 
-<br><br>
+### 🗄️ Databases
+`MySQL` • `MongoDB`
 
-<strong style="color:#00FFFF;">Tools & Frameworks:</strong><br>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,nodejs,figma,vscode,canva,photoshop,git,github&theme=dark" style="border:2px solid #00FFFF; border-radius:8px; padding:4px;" />
+### 📊 Data Analytics & AI
+`Power BI` • `Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `PySpark` • `Dataiku`
 
-</div>
+### 🛠️ Tools
+`Git` • `GitHub` • `VS Code` • `Postman` • `Jupyter Notebook` • `Figma`
 
 ---
 
 ### 📂 Highlighted Repositories
 
-- 🌸 [GrowCraft](https://github.com/anushkasark08/GrowCraft) – **50+ contributions**  
-- 🚌 [HR Roadways](https://github.com/anushkasark08/HR-Roadways)  
-- 💡 Other open-source contributions in **Hacktoberfest'25, OSCI'25**
+- 🌱 **[GrowCraft](https://github.com/anushkasark08/GrowCraft)** – Contributed 50+ commits towards enhancing features and improving the project.
+- 🍽️ **[The Lighthouse](https://github.com/anushkasark08/The-Lighthouse)** – Full-stack restaurant management platform built using the MERN stack.
+- 🤖 **AI Stock Market Analyzer** – Machine learning project for stock trend prediction and data visualization.
+- 🌐 **PrepNinja** – AI-powered placement preparation platform for coding practice and interview readiness.
+- 🎯 **Open Source Contributions** – Active contributor to **Hacktoberfest 2025**, **OSCI 2025**, **GirlScript Summer of Code (GSSoC)-2025 & 2026**
 
----
+  ---
+  
+## 📈 GitHub Stats
 
-### 📈 GitHub Stats
-
-<div align="center">
+Here's a snapshot of my GitHub activity, contribution streak, and the technologies I work with the most.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkasark08&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=39FF14" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkasark08&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=39FF14" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasark08&layout=compact&theme=dark&hide_border=true&title_color=FF6EC7&text_color=00FFFF&bg_color=0F0F0F" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasark08&layout=compact&theme=dark&hide_border=true&title_color=FF6EC7&text_color=00FFFF&bg_color=0F0F0F" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=anushkasark08&theme=dark&hide_border=true&fire=FF6EC7&currStreakNum=00FFFF&sideNums=39FF14&dates=FF6EC7" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anushkasark08&theme=dark&hide_border=true&fire=FF6EC7&currStreakNum=00FFFF&sideNums=39FF14&dates=FF6EC7" alt="GitHub Streak" />
-</p>
-
-</div>
-
----
 
 ### ⚡ Fun Fact
 > “Fueled by caffeine ☕ – can't code without it!”
