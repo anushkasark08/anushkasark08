@@ -98,14 +98,18 @@ I'm a B.Tech Information Technology student passionate about **Full-Stack Develo
 - 🎯 **Open Source Contributions** – Active contributor to **Hacktoberfest 2025**, **OSCI 2025**, **GirlScript Summer of Code (GSSoC)-2025 & 2026**
 
   ---
-  
+
 ## 📈 GitHub Stats
 
 Here's a snapshot of my GitHub activity, contribution streak, and the technologies I work with the most.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkasark08&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=39FF14" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasark08&layout=compact&theme=dark&hide_border=true&title_color=FF6EC7&text_color=00FFFF&bg_color=0F0F0F" height="170" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anushkasark08&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=FF6EC7&icon_color=00FFFF&text_color=39FF14" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anushkasark08&layout=compact&theme=dark&hide_border=true&title_color=FF6EC7&text_color=00FFFF&bg_color=0F0F0F" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anushkasark08&theme=dark&hide_border=true&fire=FF6EC7&currStreakNum=00FFFF&sideNums=39FF14&dates=FF6EC7" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
