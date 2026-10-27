@@ -48,6 +48,7 @@ I'm a B.Tech Information Technology student passionate about **Full-Stack Develo
   <img src="assets/gssoc-badge-bounty_hunter.png" width="180" alt="Bounty Hunter Badge"/>
   <img src="assets/gssoc-badge-power_contributor.png" width="180" alt="Rising Star Badge"/>
   <img src="assets/gssoc-badge-elite.png" width="180" alt="Bounty Hunter Badge"/>
+  <img src="assets/gssoc-badge-champion.png" width="180" alt="Bounty Hunter Badge"/>
   
 </p>
 
